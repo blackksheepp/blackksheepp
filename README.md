@@ -51,7 +51,7 @@ I'm just a random teenager learning and improving my programming skills. Looking
 - __Collabs__<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Always up for fun Projects, Invite me if you want.
 - __Hobbies__<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Can't live without Music. Always Learning and getting Facinated by &nbsp;&nbsp;&nbsp;&nbsp;Science, in particular Astronomy and General Physics.
+&nbsp;&nbsp;&nbsp;&nbsp;Can't live without Music. Always Learning and getting Facinated by Science, in particular Astronomy and General Physics.
 
 #### Hit Me up @ 
 <a href="https://t.me/Random_Harsh" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"></a>  <a href="https://www.dev.to/randompickle" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white"></a> <a href="https://open.spotify.com/user/31kjpvfkckxjyoxst3l25ok7jf4y" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-Spotify-lime?style=flat-square&logo=spotify&logoColor=white"></a>
