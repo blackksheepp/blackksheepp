@@ -73,15 +73,15 @@ I'm just a random teenager learning and improving my programming skills. Looking
 <hr></hr>
 <h3>Quick Overview</h3>
 
--  __Currently learning__
+-  __Currently learning__:
 Data Structures & Algoriths, Web Development and more.
-- __Working on__
+- __Working on__:
 Few Telegram Bots, and an API.
-- __Want to Work on__ 
+- __Want to Work on__: 
 Open Source CLI tools made with Python/Golang.
-- __Collabs__
+- __Collabs__:
 Always up for fun Projects, Invite me if you want.
-- __Hobbies__
+- __Hobbies__:
 Can't live without Music. Always Learning and getting Facinated by Science, in particular Astronomy and General Physics.
 
 <hr></hr>
