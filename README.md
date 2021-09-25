@@ -30,9 +30,9 @@
                 src="https://img.shields.io/badge/-Clang-034efc?style=flat-square&logo=C&logoColor=white"></a>
         <a href="https://github.com/Random-Pickle?tab=repositories" target="_blank"><img alt="C++" 
                 src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
+        <a href="https://github.com/Random-Pickle?tab=repositories" target="_blank"><img alt="HTML"
                 src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a> 
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CSS"
+        <a href="https://github.com/Random-Pickle?tab=repositories" target="_blank"><img alt="CSS"
                 src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
         <br>
         <a href="https://github.com/Random-Pickle?tab=repositories" target="_blank"><img alt="Heroku"
