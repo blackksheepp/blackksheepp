@@ -86,7 +86,7 @@ Can't live without Music. Always Learning and getting Facinated by Science, in p
 
 <hr></hr>
 <h4>Hit Me up @ </h4>
-<a href="https://t.me/Random_Harsh" target="_blank"><img alt="Telegram"
+<a href="https://t.me/ZeNo_O7" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"></a> 
 <a href="https://www.dev.to/randompickle" target="_blank"><img alt="Dev"
         src="https://img.shields.io/badge/-Dev-black?style=flat-square&logo=dev.to&logoColor=white"></a>
