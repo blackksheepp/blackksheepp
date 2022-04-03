@@ -4,14 +4,14 @@
 <!-- Heading -->
 <h3 align="center">
     <samp>
-        &gt; Umm..Hewllo World<br>
-        <a target="_blank" href="https://t.me/ANime_is_Shit">&gt; Am Harsh</a>
+        &gt; Yoo! still here?<br>
+        <a target="_blank" href="https://t.me/ANime_is_Shit">&gt; so am I.</a>
     </samp>
 
 <p align="center">
     <samp>
         <br>
-            「 Random Teenager Working with Code 」
+            「 here's a very very geeky README 」
         <br>
     </samp>
 </p>
@@ -68,25 +68,27 @@
 
 
 <h3>About Me</h3> 
-I'm just a random teenager learning and improving my programming skills. Looking forward to open source projects, Currently I'm working on personal projects and learning new things. I mostly build Bots, Tools and Scripts. Trying to enter the world of Competitive Coding.
+<strike>Got nothing else to do in my life, so started to code in hope of bliss. All I found was sweating situations in which I held myself from letting my head loose in insanity...goddam I hate it so much.</strike>
+<br></br>
+Hello I love coding, as one does. Pretty passionate about it, likes to work on projects and trying amazing tools made by others! Started Competitive Programing too, that's goin just fine...Always open for Open Source, hit me up!
 
 <hr></hr>
 <h3>Quick Overview</h3>
 
 -  __Currently learning__:
-Data Structures & Algoriths, Web Development and more.
+Java, and Solving CP questions.
 - __Working on__:
-Few Telegram Bots, and an API.
+Some Telegram Bots, 
 - __Want to Work on__: 
-Open Source CLI tools made with Python/Golang.
+Anything that I could help with, preferable in python.
 - __Collabs__:
 Always up for fun Projects, Invite me if you want.
 - __Hobbies__:
-Can't live without Music. Always Learning and getting Facinated by Science, in particular Astronomy and General Physics.
+I sleep a lot, I eat a lot, and I insufferably live a lot. yea that's not it.
 
 <hr></hr>
-<h4>Hit Me up @ </h4>
-<a href="https://t.me/ZeNo_O7" target="_blank"><img alt="Telegram"
+<h4>Don't Hit Me up @ </h4>
+<a href="https://t.me/Anime_is_Shit" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"></a> 
 <a href="https://www.dev.to/randompickle" target="_blank"><img alt="Dev"
         src="https://img.shields.io/badge/-Dev-black?style=flat-square&logo=dev.to&logoColor=white"></a>
